@@ -7,7 +7,7 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="jastinmtewa@yahoo.com"
+global.email ="sulimanafridi098@gmail.com"
 global.location="Morogoro,Tanzania."
 global.mongodb= process.env.MONGODB_URI || ""
 
@@ -18,10 +18,10 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Dodoma";
-global.github=process.env.GITHUB|| "https://github.com/kingjux/Venocyber-md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/QXS-871";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/KSPfEzy2fpcAZT89AifEmb";
+global.website=process.env.GURL || "https://chat.whatsapp.com/KSPfEzy2fpcAZT89AifEmb" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c68cf8fda9e777137b5b8.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -73,10 +73,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.1.0.0",
   caption : process.env.CAPTION || "©²⁰²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
  
-  author : process.env.PACK_AUTHER|| "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪-MD",
+  author : process.env.PACK_AUTHER|| "SHaYan-AFriDi",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪 𝚳𝐃",
-  ownername:process.env.OWNER_NAME|| "It's Venocyber",
+  botname : process.env.BOT_NAME  || "SHaYan-AFriDi",
+  ownername:process.env.OWNER_NAME|| "It's SHaYan",
 
 
   errorChat : process.env.ERROR_CHAT || "",
