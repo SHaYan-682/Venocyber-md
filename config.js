@@ -17,7 +17,7 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Dodoma";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Khyber/Jamrud";
 global.github=process.env.GITHUB|| "https://github.com/QXS-871";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/KSPfEzy2fpcAZT89AifEmb";
 global.website=process.env.GURL || "https://chat.whatsapp.com/KSPfEzy2fpcAZT89AifEmb" ; 
