@@ -66,11 +66,11 @@ global.SESSION_ID = process.env.SESSION_ID ||  "" ;
 
 module.exports = {
 
-  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Venocyber-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: SHaYan_AFriDi Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
-  VERSION : process.env.VERSION || "V.1.0.0",
+  VERSION : process.env.VERSION || "V.3.1.0",
   caption : process.env.CAPTION || "©²⁰²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
  
   author : process.env.PACK_AUTHER|| "SHaYan-AFriDi",
@@ -92,7 +92,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "VENOCYBER",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "SHaYan",
 
 
 
