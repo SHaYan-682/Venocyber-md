@@ -1,8 +1,8 @@
 {
-  "name": "Venocyber-md",
-  "description": "Hi there, I am Venocyber Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t i am from tz 🇹🇿 who brings you into one chuddy buddy now you're all in one chuddy buddy enjoy Incase of Any Problem Whatsapp me on: +255698101622",
-  "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-  "keywords": ["whatsappbot", "VenocyberMd", "Venocyber Md bot", "Venocyber-Md", "VenocyberMdWhatsaooBot", "VenocyberWaBot","VenocyberMD","Venocyber Md Whatsapp Bot","multi device"],
+  "name": "SHaYan-AFriDi",
+  "description": "Hi there, I am SHaYan Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t i am from Pak 🇵🇰 who brings you into one chuddy buddy now you're all in one chuddy buddy enjoy Incase of Any Problem Whatsapp me on: +255698101622",
+  "logo": "https://telegra.ph/file/c68cf8fda9e777137b5b8.jpg",
+  "keywords": ["whatsappbot", "ShayanMd", "Shayan Md bot", "Shayan-Md", "ShayanMdWhatsaooBot", "ShayanWaBot","ShayanMd","Shayan Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
   
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪 𝚳𝐃"
+      "value": "SHaYan-AFriDi"
     }, 
     "IMAGE": {
       "description": "Image for bot",
